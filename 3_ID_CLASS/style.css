@@ -1,0 +1,23 @@
+#título {
+    color:cornflowerblue;
+}
+.verde {
+    color: greenyellow;
+}
+
+h1 {
+    color:rgb(83, 38, 128);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+    color:purple;
+}
+
+h1 {
+    color: orangered;
+}
+
+.titulos-grandes {
+    font-size: 50px;
+}
